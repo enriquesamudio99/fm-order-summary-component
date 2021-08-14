@@ -46,6 +46,11 @@ img {
     overflow: hidden;
 }
 
+.card__img {
+    width: 100%;
+    height: auto;
+}
+
 .card__content {
     padding: 2rem 1.5rem;
     text-align: center;
